@@ -1,0 +1,5 @@
+Python version 3.7.4
+
+Operation method:
+Run transfer_server.py first, then transfer_client.py;
+Client input, for example:push/pull|Dirname|Filename;
